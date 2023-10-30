@@ -1,5 +1,4 @@
 pip install virtualenv
-pip install psycopg2
 pip install psycopg2-binary
 pip install django
 
