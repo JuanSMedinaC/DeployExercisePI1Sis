@@ -1,3 +1,6 @@
+pip install virtualenv
+pip install django
+
 echo "Building project..."
 pip install -r requirements.txt
 
