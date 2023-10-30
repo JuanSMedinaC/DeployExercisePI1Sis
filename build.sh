@@ -1,4 +1,5 @@
 pip install virtualenv
+pip install psycopg2  
 pip install django
 
 echo "Building project..."
